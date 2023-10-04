@@ -1,0 +1,28 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+} 
+
+.header-flex-container { 
+    display: flex;
+    /* background-image: url(Images/Alec-Portfolio-Picture.jpg);
+    background-size: 5em;
+    background-repeat: no-repeat; */
+    /* position: relative; */
+}
+
+.Portfolio-img-header { 
+    width: 20%;
+    /* position: absolute; */
+
+}  
+
+.about-me-text-container img { 
+    width: 25px;
+
+}
+
+/* .about-me-text-container { 
+    padding: 2em;
+} */

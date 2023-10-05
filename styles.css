@@ -14,13 +14,25 @@
 
 .Portfolio-img-header { 
     width: 20%;
+    border-radius: 15%;
     /* position: absolute; */
 
 }  
 
 .about-me-text-container img { 
     width: 25px;
+} 
 
+.projects-section-container { 
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1em;
+} 
+
+.project-cards { 
+    /* width: 220px; */
+    border: 3px solid black;
 }
 
 /* .about-me-text-container { 

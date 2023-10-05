@@ -31,6 +31,17 @@ max-width: 30px */
 
 main h3 { 
     text-align: center;
+} 
+
+.my-skills-container { 
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    gap: 3em;
+} 
+
+.my-skills-container img { 
+    width: 40px;
 }
 
 .projects-section-container { 

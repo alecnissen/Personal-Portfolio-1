@@ -7,6 +7,14 @@
 /* width: 5%
 max-width: 30px */
 
+/* header { 
+    background: linear-gradient(55deg, purple 0 50%, white 50% 100%);
+} */ 
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital@1&display=swap');
+
+
+
 .header-flex-container { 
     display: flex;
     /* background-image: url(Images/Alec-Portfolio-Picture.jpg);
@@ -16,18 +24,75 @@ max-width: 30px */
     border: 1px solid black;
     padding: 20px; 
     margin: 10px;
-}
+    gap: 2em;
+    /* background: linear-gradient(35deg, purple 0 50%, white 50% 100%); */
+    background: linear-gradient(45deg, rgb(139, 22, 139) 0, 50%, navy 50%);
+    /* background-image: url(Images/Alec-Portfolio-Picture.jpg); */
+    /* background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 1; */
+} 
+
+/* .header-style-card { 
+    background-color: white;
+} */ 
+
+.about-me-text-container { 
+    text-align: center;
+    padding: 25px; 
+    /* margin: 30px; */
+    background-color: white;
+    /* font-size: 1.2rem; */
+    font-size: clamp(1rem, 2.5vw, 1.5rem);
+    /* font-family: sans-serif; */
+    font-family: 'Playfair Display SC', serif;
+
+    border-radius: 5%;
+    border: 10px solid navy;
+} 
+
+.about-me-text-container h3 { 
+    /* font-size: 2.3rem; */
+    font-size: clamp(2.5rem, 2.5vw, 1.2rem);;
+} 
+
+/* .header-img-container { 
+    /* display: flex;
+    justify-content: center; */
+    /* position: relative;
+    top: 2%;
+    left: 39%; */
+    /* width: 200px; */
+    /* height: calc(600px * 9 / 16) */
+    /* height: auto; */
+/* }  */
 
 .Portfolio-img-header { 
-    width: 20%;
-    border-radius: 15%;
     /* position: absolute; */
-
+    /* width: 250px;  */
+    width: min(50vw, 220px);
+    height: auto;
+    border: 10px solid navy;
+    border-radius: 10%;
+    /* width: 15%; */
+    /* width: 210px;
+    height: auto; */
+    /* object-fit: fill; */
+    /* width: min(20%, 20em); */
+    /* max-width: 100%; */
+    /* border-radius: 15%;
+    border: 10px solid navy; */
+    /* position: absolute; */
+    /* width: min(15%, 25%); */
 }  
+/* .about-me-text-container img { 
+    width: 35px;
+}  */ 
 
-.about-me-text-container img { 
-    width: 25px;
-} 
+.linkedin-icon-header, 
+.github-icon-header { 
+    width: 35px;
+}
 
 main h3 { 
     text-align: center;
@@ -37,7 +102,7 @@ main h3 {
     display: flex;
     justify-content: center;
     border: 1px solid black;
-    gap: 3em;
+    /* gap: 3em; */
 } 
 
 .my-skills-container img { 
@@ -84,5 +149,12 @@ footer {
 }
 
 /* .about-me-text-container { 
-    padding: 2em;
+    padding: 2em; 
+} */ 
+
+/* @media (max-width: 500px) { 
+    .Portfolio-img-header { 
+        width: 200px;
+        height: auto;
+    }
 } */

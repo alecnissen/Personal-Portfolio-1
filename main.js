@@ -27,3 +27,32 @@
 // 
 // under my projects, make a flex container and add img tags 
 // which will include icons for various technologies. 
+
+// I can begin to style the header section, 
+// first I can select a background color, and fonts that I would want to use, 
+// lets first start with background color. 
+// I like a half white and purple background, cut in halves. Figure out how to implement that 
+// color scheme for the header. 
+
+// header section is coming along, 
+// choose a better font, play around with the fonts, 
+
+// header
+// select and play around with fonts, 
+// get the header img responsive, should look good and adapy on smaller screens 
+// before moving forward 
+
+// make the header img responsive, 
+// try to crop a smaller img and use that, see if you can use the design from last night
+
+// why when I use the picture tags, it significantly reduces the img size? Yet I'm setting a base width and I inspect in dev tools the width is still
+// 20% ??? 
+
+// How can I get a smaller version of the same img? How can I edit it so I can use a smaller img at a different screen size, 
+// 
+
+
+// still working on responsive header img, 
+// I will try to copy what or did with his pic 
+// looks he set an img container. to a certain width and calc for a height. 
+// then on the img itself 

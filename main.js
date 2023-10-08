@@ -51,8 +51,26 @@
 // How can I get a smaller version of the same img? How can I edit it so I can use a smaller img at a different screen size, 
 // 
 
+// header responsiveness is good for now, 
+// move onto styling the main, and my skills sections 
+
+// for the my skills section 
+// I have the flex wrap down when the screen shrinks 
+// try now to put a little description text underneath each icon 
+// just so the person knows the name of the technology. 
+
 
 // still working on responsive header img, 
 // I will try to copy what or did with his pic 
 // looks he set an img container. to a certain width and calc for a height. 
 // then on the img itself 
+
+// begin to work on my projects section, 
+// see how you can add a screenshot of a project, and do that for each project listed, 
+// see if you can screenshot weather app, or todo list
+// and then insert that screenshot into an img tag and style it 
+
+// add the last site preview for project 6 
+// begin to add the basic styling, such as centering items 
+// center items 
+// increase font size 

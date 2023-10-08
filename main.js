@@ -74,3 +74,14 @@
 // begin to add the basic styling, such as centering items 
 // center items 
 // increase font size 
+
+// for the header I would like to edit a few things, 
+// follow or's format in having the header, description on left, 
+// and the picture on the right, 
+// will probably have to use a flex container, to make it work 
+// switch the layout to column when screen size goes to certain width, 
+
+// look at the html, 
+// how can I get header text on the left, and picture on the right, 
+// then use media query to change the layout to column 
+// when screen size shrinks. 

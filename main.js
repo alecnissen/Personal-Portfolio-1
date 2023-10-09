@@ -124,3 +124,12 @@
 
 // my projects header btn is working 
 // next get the links in the header working too, try to use onclick, 
+
+// link the sites in the projects section, 
+// use different icon for link 
+// go thru appletrees messages and implement the feedback in the project,  
+
+// implement appletrees feedback 
+// little build icon above or below front end developer 
+// 3 projects in a row, try to use two divs 
+// change link logo to something better, 

@@ -120,4 +120,7 @@
 // change the fonts, 
 // make the links/btns work for the projects 
 // make links work for header/footer btns, 
-// change icon/img for link
+// change icon/img for link in the projects card, 
+
+// my projects header btn is working 
+// next get the links in the header working too, try to use onclick, 

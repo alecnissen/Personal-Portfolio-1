@@ -85,3 +85,39 @@
 // how can I get header text on the left, and picture on the right, 
 // then use media query to change the layout to column 
 // when screen size shrinks. 
+
+// you will need two different containers, 
+// one with flex properties that is in a row, 
+// the other with column as flex direction, 
+
+// I actually like the old header better, 
+// I reverted back to it, now I will apply a little more styling to the main section, 
+// considering different widths or padding and margin, to make it somewhat responsive, 
+// the focus now is on the projects section making sure it shrinks and sizes properly. 
+
+// main project is good enough for now, 
+
+// work on styling up the footer section a little better, 
+
+// make footer text responsive just like header text, 
+
+
+// see next that you can change the git and linkin icons in the footer, to white, 
+// then make sure to make functional links, 
+// link to repo and link to live site 
+
+// choose a different icon for livelink for each project 
+// different fonts 
+// a button in the header, that scrolls down to projects section, 
+
+// get rid of background in profile pic,  
+
+// clean up certain areas, 
+// get links working for projects, fix the about me/background 
+
+// make the projects btn work, 
+// once clicked it will scroll down to projects section, 
+// change the fonts, 
+// make the links/btns work for the projects 
+// make links work for header/footer btns, 
+// change icon/img for link

@@ -108,6 +108,7 @@ main h3 {
     color: white;
     font-family: 'Playfair Display SC', serif;
     font-size: 2rem;
+    margin: 0;
 } 
 
 .my-skills-container { 
@@ -151,25 +152,35 @@ main h3 {
     gap: 1em;
 } 
 
+/* .react-projects-container { 
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+.JS-projects-container { 
+    display: flex;
+    flex-wrap: wrap;
+} */
+
 .project-cards { 
     /* width: 600px; */
     width: min(50vw, 300px);
-    border: 3px solid black;
+    border: 3px solid rgb(15, 15, 71);
     text-align: center;
     color: white; 
     font-weight: bold;
     padding: 15px;
     margin: 10px;
     /* flex-basis: 30%; */
-    /* flex-basis: 33.333333% */
+    flex-basis: 33.333333%
     /* flex-basis: 25%; */
 }  
 
 .project-cards h3 { 
     text-decoration: underline;
-    font-size: clamp(1.5rem, 2.5vw, 1rem);;
-}
-
+    font-size: clamp(1.5rem, 2.5vw, 1rem);
+    margin: 12px;
+} 
 
 .footer-content-container { 
     display: flex; 
@@ -184,8 +195,6 @@ main h3 {
     font-family: 'Playfair Display SC', serif;
     /* font-size: clamp(1.2rem, 2.5vw, 0.5em); */
     font-size: clamp(1rem, 2.5vw, 1.5rem);
-    /* text-align: center; */
-    /* border: 1px solid black; */
 }  
 
 /* .footer-content-container h4 { 
@@ -198,6 +207,7 @@ main h3 {
     text-align: center;
     font-size: 2rem;
     text-decoration: underline;
+    margin: 0;
 }
 
 .phone-icon-text-container, 

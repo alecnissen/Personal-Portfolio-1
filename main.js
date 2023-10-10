@@ -133,3 +133,12 @@
 // little build icon above or below front end developer 
 // 3 projects in a row, try to use two divs 
 // change link logo to something better, 
+
+// feedback 
+// change wording and remove first sentence 
+// change live project link icon 
+// fix the space under the contact header 
+
+// commit and try to put 3 projects in a row 
+
+// 

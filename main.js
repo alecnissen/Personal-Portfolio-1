@@ -141,4 +141,35 @@
 
 // commit and try to put 3 projects in a row 
 
+// main project section good with projects in a row, 
+
+// try the same now for programming toolbox, vscode is appearing on one line,  
+
+
+// try to fix the hanging vscode icon, 
+// try to use same process for project card
+
+// 8 icons in total, put 4 in a container/div, 
+// then apply flex basis 
+
+// the containers did not work as expected, 
+// I need to find a way to prevent the last icon from being the only 
+// item on the row, 
+
+// something to do with flex or flex basis, I have to look up some things. 
+
+// add the webpack icon? That would add 9 items, there still would be one item 
+// on the row by itself 
+
+// the project cards link icons are moving up from the bottom, 
+// keep the icons at the bottom regardless of screen
+
+// now we need to figure out why icons in project card are rising up, instead of sitting at the bottom, 
 // 
+
+// the padding seems to be heling the icons stay in place, 
+// at the projects section, 
+
+// next play around and shrink the page and notice how the projects wrap 
+
+// possibly fix a project wrapping issue. 
